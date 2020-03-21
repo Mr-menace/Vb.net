@@ -1,0 +1,79 @@
+Welcome to the System Help Section before proceeding make sure that you are ready to read carefully each statement to understand the basic of the system and use it error less.
+
+***Suggested Display Resolution***
+1280x960 failed to adjust the resolution may result to incompatible size of the system and features.
+
+***In the Beginning the Default Logins are***
+---username: admin password: admin123 for Admin access you can change it later on if you want
+---username: user password: user123 for user type access
+
+*Adding Product*
+Product ID is Important Make sure that you putted some ID's by manual or automatically(recommended)
+by checking remember quantity it will not delete the quantity textbox every adding
+by checking remember product name it will not delete the product name every adding
+by checking For Existing Product it will only enable's Quantity box and Barcode and it will add the quantityt to the existing product found.
+
+*Return an item*
+You can only return an item if the barcode is detected from the system otherwise it would not be recorder.
+by choosing item is Damage when returning an item it will be recorded as Rejected
+by choosing item is in Good condition the item will be added to the existing item in the system.
+
+*Adding users*
+Only Admins can access this features.
+username is must be unique to register.
+
+*Stock look-out*
+Out of stock products or low on stocks will be displayed to this Window
+
+*Pull out or Re-Stock Feature*
+by Choosing Re-Stock the inputted quantity will just added to the existing item
+by Choosing Deduct it will be Deducted
+
+*Printing*
+The System's provides printing options for barcode with names or without
+you can preview it all you want before printing by clicking preview.
+
+*Deleting Data*
+Deleting a Record will permanently deletes it! No backup at all or restore points that's why only admins allows to  delete a record. user levels are denied deleting records.
+
+*Search*
+Search provides a fast product locating features, you can search by Product Barcode,Name,Quality,or Brands and more
+search features depends on the platform, you can easily figure it out once you've try it. It is highly recommended that you search an item by barcodes thus it is unique value.
+
+*Format*
+Formatting the system will delete's all the recorded items and accounts in it. Login account will be restore to defaults account which you can read from the beginning of this help files.
+
+***Shortcut Keys****
+#----------------------------------------------------------------------------------------------#
++++++Menu Dropdown+++++
+-----Ctrl+P (Print)
+-----Ctrl+Alt+R (Restart)
+-----Ctrl+Alt+Del (Del)
+-----F1 (About)
+#----------------------------------------------------------------------------------------------#
++++++Local Dropdown Menu+++++
+Color Settings
+	>F4 (Date Time Color Change)
+	>F5 (Quick Settings Panel Color Change)
+	>F6 (Datagrid Color Change)
+#----------------------------------------------------------------------------------------------#
++++++Log Files+++++
+	>Ctrl+Alt+L (Open Log Files)
+	>(Reset Files Doesn't have Shortcut thus no need for it.)
+#----------------------------------------------------------------------------------------------#
+-----Ctrl+R (Restore Default Colors Changed)
+-----Ctrl+Shift+N (Change Change the System)
+#----------------------------------------------------------------------------------------------#
++++++Administration Dropdown+++++
+-----Alt+A (Add new Product)
+-----Alt+U (Update Product Info)
+-----Ctrl+Shift+M (Manage Returned Items or return an Item here)
+-----Add Suppliers,Brand,Quality Doesn't Have shortcut keys
+-----Alt+M (User Management, Manage your account here or register a user if you are an Admin type)
+-----Alt+L (List of Suppliers, Brands and Quality Registered to the system)
+-----Alt+S ( Stocks, Show the currently out of stock products)
+#----------------------------------------------------------------------------------------------#
+
+
+
+

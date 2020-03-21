@@ -1,0 +1,251 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Auto Supply Inventory V1
+</name>
+</assembly>
+<members>
+<member name="T:Auto_Supply_Inventory_V1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Auto_Supply_Inventory_V1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Auto_Supply_Inventory_V1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbAccountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbBrandDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbSupplierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbQualityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbReturnedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbtimeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbNameDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbPOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbAccountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbBrandRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbSupplierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbQualityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbReturnedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbtimeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbNameRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbPOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbAccountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbBrandRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbSupplierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbQualityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbReturnedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbtimeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbNameRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSet.tbPOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.tbAccountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.tbProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.tbBrandTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.tbSupplierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.tbQualityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.tbReturnedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.tbtimeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.tbNameTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.tbPOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Auto_Supply_Inventory_V1.autosupplyDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Auto_Supply_Inventory_V1.autosupplyDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Auto_Supply_Inventory_V1.autosupplyDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.TableAdapterManager.UpdateAll(Auto_Supply_Inventory_V1.autosupplyDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Auto_Supply_Inventory_V1.autosupplyDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

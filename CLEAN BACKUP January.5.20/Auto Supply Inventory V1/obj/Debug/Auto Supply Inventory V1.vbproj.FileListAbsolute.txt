@@ -1,0 +1,146 @@
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.exe.config
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.exe
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.pdb
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.xml
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbprojResolveAssemblyReference.cache
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.Form1.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.Resources.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbproj.GenerateResource.Cache
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.exe
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.xml
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.pdb
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\autosupply.mdb
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.dll
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.dll
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.pdb
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.xml
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.pdb
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.xml
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmAdd.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmsuppEtc.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmLists.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbproj.ResolveComReference.cache
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmReturn.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmPrint.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmRegister.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmLogin.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmPull.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmBgWorker.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmExistProd.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmStocks.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmUpdate.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmName.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.exe.config
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Interop.WMPLib.dll
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbproj.ResolveComReference.cache
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.exe
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.xml
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.pdb
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\autosupply.mdb
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.exe
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.pdb
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.xml
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.dll
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.dll
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.pdb
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.xml
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.pdb
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.xml
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbprojResolveAssemblyReference.cache
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.Form1.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmAdd.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmBgWorker.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmExistProd.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmLogin.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmName.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmPrint.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmPull.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmRegister.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmReturn.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmLists.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmStocks.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmsuppEtc.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmUpdate.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.Resources.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbproj.GenerateResource.Cache
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.exe.config
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Interop.WMPLib.dll
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbproj.ResolveComReference.cache
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.exe
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.xml
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.pdb
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\autosupply.mdb
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.exe
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.pdb
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.xml
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.dll
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.dll
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.pdb
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.xml
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.pdb
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.xml
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbprojResolveAssemblyReference.cache
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.Form1.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmAdd.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmBgWorker.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmExistProd.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmLogin.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmName.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmPrint.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmPull.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmRegister.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmReturn.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmLists.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmStocks.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmsuppEtc.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmUpdate.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.Resources.resources
+F:\LAPTOP FILES\Visual Studio Projects\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbproj.GenerateResource.Cache
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.exe.config
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbproj.ResolveComReference.cache
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.exe
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.xml
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.pdb
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\autosupply.mdb
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.exe
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.pdb
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Auto Supply Inventory V1.xml
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.dll
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.dll
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.pdb
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.xml
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.pdb
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\zxing.presentation.xml
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbprojResolveAssemblyReference.cache
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.Form1.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmAdd.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmBgWorker.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmExistProd.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmLogin.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmName.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmPrint.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmPull.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmRegister.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmReturn.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmLists.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmStocks.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmsuppEtc.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmUpdate.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.Resources.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto Supply Inventory V1.vbproj.GenerateResource.Cache
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmReturnEdit.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmReports.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmPOS.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmPOScall.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmRescan.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmReload.resources
+C:\Users\Xbee\Documents\Visual Studio 2015\Projects\Tutorial\COMSO07 - Copy\Auto Supply Inventory V1\Auto Supply Inventory V1\obj\Debug\Auto_Supply_Inventory_V1.frmTransHistory.resources
